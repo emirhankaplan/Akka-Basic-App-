@@ -18,9 +18,4 @@ Bu proje, AKKA framework kullanılarak geliştirilen basit bir uygulamadır. Uyg
 Kullanım
 Actor1 "Hi from Actor1" mesajını gönderir.
 Actor2 bu mesaja "Hi from Actor2" cevabını verir.
-Proje Yapısı
 
-src/main/java: Java kaynak dosyaları
-Actor1.java: Birinci aktör
-Actor2.java: İkinci aktör
-Main.java: Uygulamanın giriş noktası
