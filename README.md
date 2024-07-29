@@ -10,7 +10,7 @@ Bu proje, AKKA framework kullanılarak geliştirilen basit bir uygulamadır. Uyg
 
 2. **Proje Kopyalama:**
    ```sh
-   git clone https://github.com/kullaniciadi/akka-simple-app.git
+   git clone https://github.com/emirhankaplan/Akka-Basic-App-.git
    cd akka-simple-app
   
 
